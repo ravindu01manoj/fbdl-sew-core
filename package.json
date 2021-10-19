@@ -1,0 +1,35 @@
+{
+  "name": "fbdl-sew-core",
+  "version": "1.0.0",
+  "description": "Facebook video downloader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "author": "Ravindu Manoj",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "check-path": "1.0.2",
+    "node-fetch": "^2.6.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindu01manoj/fbdl-sew-core.git"
+  },
+  "keywords": [
+    "facebook",
+    "fbdl",
+    "facebook-video-download",
+    "facebook-video",
+    "ytdl"
+  ],
+  "bugs": {
+    "url": "https://github.com/ravindu01manoj/fbdl-sew-core/issues"
+  },
+  "homepage": "https://github.com/ravindu01manoj/fbdl-sew-core#readme"
+}
